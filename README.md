@@ -1,6 +1,7 @@
 This project is a Python-based GUI for Kali Pi, designed to provide quick access to various tools and commands commonly used in Kali Linux. The GUI is implemented using the Tkinter library and allows users to execute commands through a graphical interface.
 
-Features
+Features -
+
 Tool Execution: Provides buttons to run tools like nmap, metasploit, hydra, john the ripper, aircrack-ng, and wireshark.
 Pagination: Includes a secondary page for additional tools such as nikto, sqlmap, netcat, nbtscan, dirb, and gobuster.
 User-Friendly Interface: Simple and intuitive GUI designed with Tkinter.
